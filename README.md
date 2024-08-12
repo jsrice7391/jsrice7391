@@ -2,11 +2,11 @@
 
 I am a DevOps Engineer/Teacher and I adore what I do.
 
-I have been in the IT space for 7 years and worked in DevOps for 4 years.
+I have been in the IT space for 7 years and worked in DevOps for most of those.
 
-I am interested in: DevOps, AI, Terraform
+I am interested in: DevOps, AI and Systems architecture.
 
-I am interested in working in: BioTech and Sustainability
+I am interested in working in: Mental Health
 
 Current Project: [Cloud Hippie](https://cloudhippie.com/)
 
