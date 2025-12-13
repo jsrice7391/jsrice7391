@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Justin Rice and I adore what I Do.
+## 👋 Hi, I’m Justin Rice and I Adore What I Do.
 
 I am a DevOps Engineer/Teacher.
 
