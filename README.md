@@ -2,9 +2,9 @@
 
 I am a DevOps Engineer/Teacher.
 
-I have been in the IT space for 9 years and worked in DevOps for most of those.
+I have been in the IT space for 9 years primarily in DevOps and automation.
 
-I currently work as a Sr. DevOps Engineer for Equip Health.
+I currently work as a Sr. DevOps Engineer @ Equip Health.
 
 I am interested in: Cloud, DevOps, AI and automation.
 
